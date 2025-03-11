@@ -24,4 +24,4 @@ npm run dev
 http://localhost:3000
 
 ## **Assignment Live Link**
---------
+https://assignment-pokemon-explorer.vercel.app/
